@@ -30,7 +30,7 @@ Simular cenários de ataque de força bruta e password spraying em um ambiente c
 | **HTTP (80)** | Hydra | T1110 - Brute Force | ✅ Sucesso (`admin:password`) |
 
 ## 📄 Documentação Completa
-- O relatório técnico completo, estruturado com o framework **PTES** e com todas as evidências e mitigações, está disponível no arquivo: **[Relatorio_Pentest_DIO.pdf](./Relatório de Pentest - DIO Cyber.pdf)**.
+- O relatório técnico completo, estruturado com o framework **PTES** e com todas as evidências e mitigações, está disponível no arquivo: **[Relatorio_Pentest_DIO.pdf](./Relatorio_Pentest_DIO.pdf)**.
 - Os logs brutos das ferramentas estão na pasta `/logs`.
 
 ## 🛡️ Mitigação
